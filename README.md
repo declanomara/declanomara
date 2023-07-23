@@ -1,4 +1,4 @@
 - Hi, my name is Declan O'Mara and I am an undergrad physics student at UCLA, class of 2024.
 - You can reach me at declan@omara.us or at declanomara@ucla.edu
-- I primarily write software in Python however some of my projects leverage C++ when speed is necessary. I am proficient in various other languages such as Java and JavaScript, however these are not my preferred languages so they don't show up frequently in my projects outside of when necessary.
+- I primarily write software in Python however some of my projects leverage C++ when speed is necessary. Recently I have started to prefer Rust to both Python and C++ as its memory safety is incredibly helpful, and I find it is a nice middle ground between Python and C++ in terms of development speed.
 - Although many of my repos are old projects from my early days of learning to code, and are thus poorly maintained and largely poorly written, feel free to check out some of my more recent projects to see my latest skillset. 
